@@ -13,4 +13,4 @@ A light-weight python script to quickly compress any images.
 
 ### Example
 
-`python3 main.py -i ./image/hello.jpg -o ./image/hello_edited.jpg`
+`python3 main.py -i ./image/hello.jpg -o ./image/hello_edited.jpg -q 50`
