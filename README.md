@@ -1,6 +1,6 @@
 ## image-compressor-py-script
 
-A light-weight python script to quickly any images.
+A light-weight python script to quickly compress any images.
 
 ### Requirement
 
